@@ -5,6 +5,22 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
+  {% if post.artist%}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.artist}} - {{post.title}} ({{post.year}}, {{post.country}})
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    <div class="vid-container">
+      <iframe src="//www.youtube.com/embed/{{post.youtube_id}}" 
+      frameborder="0" allowfullscreen class="video"></iframe>
+  </div>
+    {{ post.content }}
+  </article>
+  {% else %}
   <article class="post">
     <h1 class="post-title">
       <a href="{{ post.url | relative_url }}">
@@ -16,6 +32,10 @@ title: Home
 
     {{ post.content }}
   </article>
+  {% endif %}
+
+  
+  
   {% endfor %}
 </div>
 
