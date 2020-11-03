@@ -8,18 +8,24 @@ title: Live Show
   </p>
 <h1>
 <!-- Add a placeholder for the Twitch embed -->
-<div id="twitch-embed"></div>
-
-<!-- Load the Twitch embed script -->
-<script src="https://embed.twitch.tv/embed/v1.js"></script>
-
-<!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
-<script type="text/javascript">
-    new Twitch.Embed("twitch-embed", {
-    width: 854,
-    height: 480,
-    channel: "onlyjamsradio",
-    // only needed if your site is also embedded on embed.example.com and othersite.example.com 
-    parent: []
-    });
-</script>
+<div class="twitch">
+    <div class="twitch-video">
+      <iframe
+      src="https://player.twitch.tv/?channel=onlyjamsradio&muted=true&parent=onlyjamsradio.com"
+        frameborder="0"
+        scrolling="no"
+        allowfullscreen="true"
+        height="100%"
+        width="100%">
+      </iframe>
+    </div>
+    <div class="twitch-chat">
+      <iframe
+        frameborder="0"
+        scrolling="no"
+        src="https://www.twitch.tv/embed/onlyjamsradio/chat?parent=onlyjamsradio.com"
+        height="100%"
+        width="100%">
+      </iframe>
+    </div>
+  </div>
