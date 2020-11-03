@@ -9,7 +9,7 @@ title: Music Finds
 ----
 <h2>Gandy - Bedroom Call (1993, UK)</h2>
 ----
-<div class="container">
+<div class="vid-container">
     <iframe src="//www.youtube.com/embed/penFI0fyECw" 
     frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -19,7 +19,7 @@ Smooth dancehall track with a great instrumental, uploaded in HQ :)
 ----
 <h2>Mike Brooks - Tim Back Two (19??, UK)</h2>
 ----
-<div class="container">
+<div class="vid-container">
     <iframe src="//www.youtube.com/embed/-NoYU_-acq0" 
     frameborder="0" allowfullscreen class="video"></iframe>
 </div>
