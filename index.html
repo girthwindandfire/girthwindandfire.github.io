@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 <div class="posts">
   {% for post in paginator.posts %}
   {% if post.artist%}
@@ -20,6 +19,7 @@ title: Home
   </div>
     {{ post.content }}
   </article>
+  <hr>
   {% else %}
   <article class="post">
     <h1 class="post-title">
@@ -32,6 +32,7 @@ title: Home
 
     {{ post.content }}
   </article>
+  <hr>
   {% endif %}
 
   

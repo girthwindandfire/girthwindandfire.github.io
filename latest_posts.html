@@ -1,0 +1,34 @@
+---
+layout: default
+title: Latest Posts
+---
+{% assign newest_show = site.categories.radio_shows[0] %}
+{% assign newest_music_fnd = site.categories.music_finds[0] %}
+<div class = "posts">
+  <article class ="post">
+    <h1 class="post-title">
+      <a href="{{newest_show.url | relative_url }}">
+        Latest Radio Show Episode
+      </a>
+    </h1>
+    {{newest_show.content}}
+  </article>
+</div>
+<hr>
+<div class = "posts">
+  <article class ="post">
+    <h1 class="post-title">
+      <a href="{{newest_music_fnd.url | relative_url }}">
+        Latest Music Find
+      </a>
+    </h1>
+    <h4>{{newest_music_fnd.artist}} - {{newest_music_fnd.title}} ({{newest_music_fnd.year}}, {{newest_music_fnd.country}})</h4>
+    <div class="vid-container">
+      <iframe src="//www.youtube.com/embed/{{newest_music_fnd.youtube_id}}" 
+      frameborder="0" allowfullscreen class="video"></iframe>
+  </div>
+  
+    {{ post.content }}
+    {{newest_music_fnd.content}}
+  </article>
+</div>

@@ -1,5 +1,5 @@
 # Setup
-title: OnlyJams
+title: onlyjams
 url: https://onlyjamsradio.com
 paginate: 3
 baseurl: ""
@@ -43,14 +43,17 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: all
     url: /archive
 
-  - title: About
+  - title: about
     url: /about
 
-  - title: Twitch
+  - title: twitch
     url: /twitch
 
-  - title: Music_Finds
+  - title: finds
     url: /music_finds
+
+  - title: shows
+    url: /radio_shows
