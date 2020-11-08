@@ -24,7 +24,7 @@ title: Episode 7
 <hr>
 ##### One of the best reissues to come out of 2018 in my opinion
 
-# Oviformia SCI
+# Oviformia Sci - Fashion Magazines
 <hr>
 ##### Minimal wave spanish synth heater showcasing the Korg MS-20's early prowess.
 
