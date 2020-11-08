@@ -4,7 +4,8 @@ url: https://onlyjamsradio.com
 paginate: 3
 baseurl: ""
 permalink: pretty
-
+tagline: "Two lads sharing obscure, underappreciated, rare, and unheard tunes"
+description: "Two lads sharing obscure, underappreciated, rare, and unheard tunes"
 paginate_path: "page:num/"
 
 # Gems
