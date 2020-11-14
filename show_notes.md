@@ -1,53 +1,53 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 7
+title: Episode 8
 ---
 
-# Nick Carr - Swahili
+# Phaserboys - Including No Information
 <hr>
-##### Beautiful spacy song that builds up slowly to amazing vocals.
+##### A smooth and synthy electronic funk heater.
 
-# Carmen - Time to Move
+# Banda Ole Brasil - Ole Brasil
 <hr>
-##### A stellar funk n boogie tune aptly titled to get you movin!
+##### Brazilian tune about the game of footy
 
-# Time and Life - Tous Les Jours Pense A Vous
+#  Guyer's Connection - Laugh About
 <hr>
-##### Super duper catchy Synth-pop tune coming out of Belgium
+##### A classic minimal wave/cosmic disco favorite
 
-# Thierry Mazel – Nostalgie
+# Flavia Feital - Sem Sentido
 <hr>
-#### Body jivin french boogie
+#### Soulful downtempo track coming out of Brazil
 
-# Kojo Antwi - Hini Mi
+# Harold Lucious - I Like It
 <hr>
-##### One of the best reissues to come out of 2018 in my opinion
+##### Heavy cut from an album deemed a predecessor to the street soul genre this is an extra funky synthed out R&B tune
 
-# Oviformia Sci - Fashion Magazines
+# Luna & Dj Cri - Acabou Como Comecou
 <hr>
-##### Minimal wave spanish synth heater showcasing the Korg MS-20's early prowess.
+##### Brazilian cover of Loose Ends Love Controversy Pt2. Sampa Crew out of Brazil also does a cover of the same track which is def worth checking out as well.
 
-# Peter Lloyd - Disrespect
+# LeVert - Casanova
 <hr>
-##### Dancehall beat with some 90s R&B feel coming out of Jamaica. This should have defenitely been on top of the charts in the 90s
+##### Incredible New jack swing/R&B heater
 
-# Angela Starr - Boogie Girl
+# Karen Dixon - It's Easier to Love
 <hr>
-##### Smooth n luscious nigerian boogie baby maker.
+##### Sister Sledge for the bruvs who love that UK Street Soul
 
-# Kofi - Losing Time For Love
+# JT And The Big Family - Moments In Soul 
 <hr>
-##### Amazing song by Kofi, one of the best to ever do it.
+##### Downtempo hip hop/ streetsoul ish tune that samples Art of noise's moments in love 
 
-# Nocera - Summertime, Summertime (Original Club Mix)
+# Mike Brooks - Gimmie Your Love
 <hr>
-##### CHEESY Freestyle track cuz OS 4 LYFE. Take it Eaze
+##### Off of one of my favorite EP finds this year, check out the youtube channel for other tracks off the EP.
 
-# City Heat - Strange How It Goes
+# Otis Gayle - I'll Be Around
 <hr>
-##### Smooth jammer from 1989.
+##### Funky lovers / rocksteady cover of The spinners classic tune!
 
-# Dizzy K - Who's the other Guy
+# O.T.S - Yes I Need You
 <hr>
-##### Another smooth nigerian boogie heater this time filled with romantic suspicion n jealousy cuz you know hoes be triflin
+##### 💔 😢
