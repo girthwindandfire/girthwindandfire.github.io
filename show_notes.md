@@ -8,9 +8,9 @@ title: Episode 9
 <hr>
 ##### Sweet lil northern soul tune about the evils of mans.
 
-# Mave & Dave - You Are Delicious
+# Belinda Parker - Go Away From Me
 <hr>
-##### Soulful lovers tune from 1980
+##### South Africa boogie with some sad lyrics, that is sure to make you cry and dance at the same time
 
 #  Yuji Toriyama & Ken Morimura - Night Together 
 <hr>
@@ -32,9 +32,9 @@ title: Episode 9
 <hr>
 ##### Balearic synthpop body mover
 
-# Jina - Goriad Aur
+# Carrol Thompson - Smiling In The Morning
 <hr>
-##### Welsh boogie tune with not much info on it
+##### Soulful lovers rock tune.
 
 # Rosa - Sera A Posillipo
 <hr>
