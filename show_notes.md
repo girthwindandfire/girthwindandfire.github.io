@@ -1,53 +1,53 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 8
+title: Episode 9
 ---
 
-# Phaserboys - Including No Information
+# The Ad Libs - Kicked Around
 <hr>
-##### A smooth and synthy electronic funk heater.
+##### Sweet lil northern soul tune about the evils of mans.
 
-# Banda Ole Brasil - Ole Brasil
+# Mave & Dave - You Are Delicious
 <hr>
-##### Brazilian tune about the game of footy
+##### Soulful lovers tune from 1980
 
-#  Guyer's Connection - Laugh About
+#  Yuji Toriyama & Ken Morimura - Night Together 
 <hr>
-##### A classic minimal wave/cosmic disco favorite
+##### Sensual Japanese boogie heater
 
-# Flavia Feital - Sem Sentido
+# Al Diamond - Dont Steam Me Up
 <hr>
-#### Soulful downtempo track coming out of Brazil
+#### Nigerian boogie always comes correct
 
-# Harold Lucious - I Like It
+# IAO - Love
 <hr>
-##### Heavy cut from an album deemed a predecessor to the street soul genre this is an extra funky synthed out R&B tune
+##### Sexy german synth hop tune
 
-# Luna & Dj Cri - Acabou Como Comecou
+# David & Corine - Folies Suaves
 <hr>
-##### Brazilian cover of Loose Ends Love Controversy Pt2. Sampa Crew out of Brazil also does a cover of the same track which is def worth checking out as well.
+##### Retro-zouk tune with a chilled out vibe
 
-# LeVert - Casanova
+# Kyoto - Venetian Blinds
 <hr>
-##### Incredible New jack swing/R&B heater
+##### Balearic synthpop body mover
 
-# Karen Dixon - It's Easier to Love
+# Jina - Goriad Aur
 <hr>
-##### Sister Sledge for the bruvs who love that UK Street Soul
+##### Welsh boogie tune with not much info on it
 
-# JT And The Big Family - Moments In Soul 
+# Rosa - Sera A Posillipo
 <hr>
-##### Downtempo hip hop/ streetsoul ish tune that samples Art of noise's moments in love 
+##### Italian synthpop 
 
-# Mike Brooks - Gimmie Your Love
+# Tashif' Kente - Who's That Boy
 <hr>
-##### Off of one of my favorite EP finds this year, check out the youtube channel for other tracks off the EP.
+##### A smooth tune for the jealous boys out there.
 
-# Otis Gayle - I'll Be Around
+# Promise - Life and Love
 <hr>
-##### Funky lovers / rocksteady cover of The spinners classic tune!
+##### Sweet soul groove
 
-# O.T.S - Yes I Need You
+# Mary Pearce - Over
 <hr>
-##### 💔 😢
+##### See you next time :)
