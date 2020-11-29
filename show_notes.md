@@ -4,50 +4,50 @@ layout: page
 title: Episode 9
 ---
 
-# The Ad Libs - Kicked Around
+# Mave & Dave - You Are Delicious
 <hr>
-##### Sweet lil northern soul tune about the evils of mans.
+##### Soulful tune comming out of Trinidad
 
-# Belinda Parker - Go Away From Me
+# Mari & Bux Bunny - Aru Toki あるとき
 <hr>
-##### South Africa boogie with some sad lyrics, that is sure to make you cry and dance at the same time
+##### funky soul track with screamin synth and guitar action
 
-#  Yuji Toriyama & Ken Morimura - Night Together 
+#  All Trouvee - Darling 
 <hr>
-##### Sensual Japanese boogie heater
+##### Italo-disco jammer
 
-# Al Diamond - Dont Steam Me Up
+# Anri - Good Bye Boogie Dance
 <hr>
-#### Nigerian boogie always comes correct
+#### Classic Japanese boogie pop tune
 
-# IAO - Love
+# Trippa Irie - Panic Panic
 <hr>
-##### Sexy german synth hop tune
+##### Describe your boy teej in two words.
 
-# David & Corine - Folies Suaves
+# Yoshino Fujimaru - You're the one
 <hr>
-##### Retro-zouk tune with a chilled out vibe
+##### Horny jazzy downtempo city pop love song
 
-# Kyoto - Venetian Blinds
+# Sass - Much Too Much
 <hr>
-##### Balearic synthpop body mover
+##### Smooth downtempo boogie tune that got reissued in 2020
 
-# Carrol Thompson - Smiling In The Morning
+# Diastereomer - Place
 <hr>
-##### Soulful lovers rock tune.
+##### Somber Minimal waves
 
-# Rosa - Sera A Posillipo
+# Jean Adebambo - Say That You Love Me
 <hr>
-##### Italian synthpop 
+##### Lovers rock singer Jean Adebambo shows her range by putting out a soulful disco tune.
 
-# Tashif' Kente - Who's That Boy
+# MIKAN MUKKU [みかんむくっ] - Kan [缶] 
 <hr>
-##### A smooth tune for the jealous boys out there.
+##### strange and kooky no wave tune
 
-# Promise - Life and Love
+# Masurrati And Huey Harris - Super Duper (Lovin)
 <hr>
-##### Sweet soul groove
+##### Deep spacy boogie vibes on this one m8s
 
-# Mary Pearce - Over
+# Ryuichi Sakamoto - Risky
 <hr>
-##### See you next time :)
+##### romantic r&b'ish synthpop gem
