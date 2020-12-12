@@ -1,53 +1,53 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 10
+title: Episode 11
 ---
 
-# Mave & Dave - You Are Delicious
+# Brotherly Love - Whole Lotta You In Me
 <hr>
-##### Soulful tune comming out of Trinidad
+##### Soulful funky tune from the US
 
-# Mari & Bux Bunny - Aru Toki あるとき
+# Selena - Enamorada de ti
 <hr>
-##### funky soul track with screamin synth and guitar action
+##### Early new jack swing heater by the latin queen
 
-#  All Trouvee - Darling 
+#  Patti Shaw - Somebody Pulled The Switch (Disco)
 <hr>
-##### Italo-disco jammer
+##### Soul disco groovers dont really get any better than this
 
-# Anri - Good Bye Boogie Dance
+# San Giovanni Bassista - Summer sweat
 <hr>
-#### Classic Japanese boogie pop tune
+#### Sweet italo groover produced by Alexander robotnick
 
-# Trippa Irie - Panic Panic
+# Sizzle - Ooh
 <hr>
-##### Describe your boy teej in two words.
+##### Crazy catchy boogie tune
 
-# Yoshino Fujimaru - You're the one
+# Viva Voz - Mania de tu amor
 <hr>
-##### Horny jazzy downtempo city pop love song
+##### Poppy brazilian rita lee cover
 
-# Sass - Much Too Much
+# Slang - Knock U Out
 <hr>
-##### Smooth downtempo boogie tune that got reissued in 2020
+##### Another boogie heater, that desperately needs a reissue
 
-# Diastereomer - Place
+# Toyin Agbetu - Place
 <hr>
-##### Somber Minimal waves
+##### Mega soulful proto house/garage track by the most prolific streetsoul producer
 
-# Jean Adebambo - Say That You Love Me
+# King Rap - Midi (Tell Me)
 <hr>
-##### Lovers rock singer Jean Adebambo shows her range by putting out a soulful disco tune.
+##### Kwaito, hip-house fuego from 1990
 
-# MIKAN MUKKU [みかんむくっ] - Kan [缶] 
+# Funhill - Me My Turn
 <hr>
-##### strange and kooky no wave tune
+##### Groovy streetsoul
 
-# Masurrati And Huey Harris - Super Duper (Lovin)
+# Edmon - Toda Noite (Meme And Corrello Classic Mix)
 <hr>
-##### Deep spacy boogie vibes on this one m8s
+##### Brazilian new jack swing vibes on dis one
 
-# Ryuichi Sakamoto - Risky
+# Meiko Nakahara - Private Beach
 <hr>
-##### romantic r&b'ish synthpop gem
+##### Sensual baby makin citypop tunage
