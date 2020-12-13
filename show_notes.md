@@ -4,9 +4,9 @@ layout: page
 title: Episode 11
 ---
 
-# Brotherly Love - Whole Lotta You In Me
+# Native - Love Aint No Holiday
 <hr>
-##### Soulful funky tune from the US
+##### Chill reggae-pop tune
 
 # Selena - Enamorada de ti
 <hr>
