@@ -1,53 +1,53 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 11
+title: Episode 12
 ---
 
-# Native - Love Aint No Holiday
+# Gabriels - Love & hate in a Different Time
 <hr>
-##### Chill reggae-pop tune
+##### Modern soul tune that slaps so pure it could fool any foo to think it was cut in 1965
 
-# Selena - Enamorada de ti
+# Todd - Thank You (Disco Version)
 <hr>
-##### Early new jack swing heater by the latin queen
+##### Electro / Freestyle heater guarenteed to get that body moving
 
-#  Patti Shaw - Somebody Pulled The Switch (Disco)
-<hr>
-##### Soul disco groovers dont really get any better than this
-
-# San Giovanni Bassista - Summer sweat
+# J.E. Movement - Friends (1988)
 <hr>
 #### Sweet italo groover produced by Alexander robotnick
 
-# Sizzle - Ooh
+# TMO - U Massa Move
 <hr>
-##### Crazy catchy boogie tune
+##### Kwaito dance floor killer produced by the man Don Laka
 
-# Viva Voz - Mania de tu amor
+# Streetlife Fantasy - Gotta Stop It (Nuclear War)(1987)
 <hr>
-##### Poppy brazilian rita lee cover
+##### Funky anti war boogie tune 
 
-# Slang - Knock U Out
+# Jeff Floyd - Don't Leave Me
 <hr>
-##### Another boogie heater, that desperately needs a reissue
+##### Soulful / dancy tune to make you dance and cry at the same time.
 
-# Toyin Agbetu - Place
+# Sexual Harrassment - I Need A Freak (1983)
 <hr>
-##### Mega soulful proto house/garage track by the most prolific streetsoul producer
+##### Durrrrty nasty electro funk tune bout the need for a tru freak
 
-# King Rap - Midi (Tell Me)
+# Harlem Gem - More Than You Can Wish
 <hr>
-##### Kwaito, hip-house fuego from 1990
+##### Streetsoul / soulful house heater. Super catchy with amazing vocals.
 
-# Funhill - Me My Turn
+# Nat Bush - Taste Of Love Again (1983)
 <hr>
-##### Groovy streetsoul
+##### Sweet disco funky love sanng
 
-# Edmon - Toda Noite (Meme And Corrello Classic Mix)
+# Margello's - Passado
 <hr>
-##### Brazilian new jack swing vibes on dis one
+##### Brazillian hip-hop tune that borrows from Sade's Sweetest Taboo
 
-# Meiko Nakahara - Private Beach
+# The Barrio Boyzz - Cerca De Ti 
 <hr>
-##### Sensual baby makin citypop tunage
+##### Sexy spanish R&B baby makin tune. Si por favor pappiiiii!
+
+# Mike Brooks - On The Ice
+<hr>
+##### Reggae heater reminding you to let go of the past and broken relationships
