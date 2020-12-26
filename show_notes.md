@@ -1,53 +1,54 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 12
+title: Episode 13
 ---
 
-# Gabriels - Love & hate in a Different Time
-<hr>
-##### Modern soul tune that slaps so pure it could fool any foo to think it was cut in 1965
 
-# Todd - Thank You (Disco Version)
+# Whodini- Five Minutes 
 <hr>
-##### Electro / Freestyle heater guarenteed to get that body moving
+##### 80s hip hop homage to the late great John "Ecstasy" Fletcher - **Tio Xans**
 
-# J.E. Movement - Friends (1988)
+# Fathers Children - In Shallah
 <hr>
-#### Sweet italo groover produced by Alexander robotnick
+##### Sweet soul tune remastred from the groups never released debut album from 1973 - **ouitches**
 
-# TMO - U Massa Move
+# Hitomitoi - (Smoke Colored Lovers)煙色の恋人達REMIX
 <hr>
-##### Kwaito dance floor killer produced by the man Don Laka
+#### Jazzy J pop tune - **Clint**
 
-# Streetlife Fantasy - Gotta Stop It (Nuclear War)(1987)
+# Robert Del Buono - Mysterious
 <hr>
-##### Funky anti war boogie tune 
+##### Catchy tune from Canada most likely produced in the 1980s but no known date on this one. - **teej**
 
-# Jeff Floyd - Don't Leave Me
+# The Cool Notes - In Your Car
 <hr>
-##### Soulful / dancy tune to make you dance and cry at the same time.
+##### Body jivin Disco funky heater - **Tio Xans**
 
-# Sexual Harrassment - I Need A Freak (1983)
+# Alton Ellis - What Does It Take(To Win Your Love)
 <hr>
-##### Durrrrty nasty electro funk tune bout the need for a tru freak
+##### Smooth n soulful rocksteady tune by one of the most prolific rude boy of the genre - **ouitches**
 
-# Harlem Gem - More Than You Can Wish
+# Gloria Ann Taylor - Love Is A Hurtin' Thing
 <hr>
-##### Streetsoul / soulful house heater. Super catchy with amazing vocals.
+##### Soulfull groove ting - **Clint**
 
-# Nat Bush - Taste Of Love Again (1983)
+# Patience Dabany - Dis Moi
 <hr>
-##### Sweet disco funky love sanng
+##### Catchy afro boogie fuego - **teej**
 
-# Margello's - Passado
+# Tululah Moon - If You Want Love 
 <hr>
-##### Brazillian hip-hop tune that borrows from Sade's Sweetest Taboo
+##### Poppy Electrofunk banger via Duke Bootee productions - **Tio Xans**
 
-# The Barrio Boyzz - Cerca De Ti 
+# Klaus Nomi - Silent Night
 <hr>
-##### Sexy spanish R&B baby makin tune. Si por favor pappiiiii!
+##### Silent Night By Klaus Nomi weird funky xmas music by the popular german countertenor - **ouitches**
 
-# Mike Brooks - On The Ice
+# Emilio Santiago  - Revelação (1984)
 <hr>
-##### Reggae heater reminding you to let go of the past and broken relationships
+##### Funky soulful brazilian - **Clint**
+
+# Dawna Lee - Wanna Be Down
+<hr>
+##### Dancehall cover of Brandy's I Wanna Be Down - **teej**
