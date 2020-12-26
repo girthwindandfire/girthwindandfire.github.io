@@ -5,7 +5,7 @@ title: Episode 13
 ---
 
 
-# Whodini- Five Minutes 
+# Whodini - Five Minutes Of Funk
 <hr>
 ##### 80s hip hop homage to the late great John "Ecstasy" Fletcher - **Tio Xans**
 
