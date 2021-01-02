@@ -1,54 +1,58 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 13
+title: Episode 14
 ---
 
 
-# Whodini- Five Minutes 
+# What A Fool Believes By The Doobie Brothers 1979 
 <hr>
-##### 80s hip hop homage to the late great John "Ecstasy" Fletcher - **Tio Xans**
+##### sampled in madrake (Special Herbs Vol. 7&8) Bouncy up beat classic rock/r&b tune.
 
-# Fathers Children - In Shallah
+# Boz Scaggs - Low Down
 <hr>
-##### Sweet soul tune remastred from the groups never released debut album from 1973 - **ouitches**
+##### Sampled in Metal Fingers Vol 5 & 6. Smooth chilled out jammer
 
-# Hitomitoi - (Smoke Colored Lovers)煙色の恋人達REMIX
+# Madamoiselle By Foxy 1978
 <hr>
-#### Jazzy J pop tune - **Clint**
+#### sampled in coriander (Special Herbs Vol. 1) Ultra funky disco groove
 
-# Robert Del Buono - Mysterious
+# Osmar Milito - America Latina
 <hr>
-##### Catchy tune from Canada most likely produced in the 1980s but no known date on this one. - **teej**
+##### sampled in Madvillain - Raid. upbeat brazilian tune
 
-# The Cool Notes - In Your Car
+# Happy You Should Be By Mahmakhan 1970
 <hr>
-##### Body jivin Disco funky heater - **Tio Xans**
+##### Sampled in vomitspit (MM..Food?) Upbeat & positive yet not at the same time psych rock track about breakin up
 
-# Alton Ellis - What Does It Take(To Win Your Love)
+# Atlantic Starr - Second To None
 <hr>
-##### Smooth n soulful rocksteady tune by one of the most prolific rude boy of the genre - **ouitches**
+##### Sampled on Madvillain's Bistro. Soulful lover tune from Atlantic Starr
 
-# Gloria Ann Taylor - Love Is A Hurtin' Thing
+# Maiden Voyage By Jon Lucien 1975
 <hr>
-##### Soulfull groove ting - **Clint**
+##### sampled in eucalyptus (Special Herbs Vol. 2) Mega romantic soul tune 
 
-# Patience Dabany - Dis Moi
+# Caldera - Out of the Blue
 <hr>
-##### Catchy afro boogie fuego - **teej**
+##### Mellow jazz-funk record sampled on MF Doom's Deep Fried Frenz.
 
-# Tululah Moon - If You Want Love 
+# Shoot Em Up Movies By The Deele 1987 
 <hr>
-##### Poppy Electrofunk banger via Duke Bootee productions - **Tio Xans**
+##### sampled in red&gold (Operation Doomsday) Classic 80s new jack swing/r&b
 
-# Klaus Nomi - Silent Night
+# Kevin McCord - When The Night Comes
 <hr>
-##### Silent Night By Klaus Nomi weird funky xmas music by the popular german countertenor - **ouitches**
+##### Sexy tune that was re-issued in 2020 from Backatcha records. A must have in the record bag.
 
-# Emilio Santiago  - Revelação (1984)
+# Kiss Of Life by Sade
 <hr>
-##### Funky soulful brazilian - **Clint**
+##### sampled on doomsday from (Operation DoomsDay) Upbeat classic by the queen of smooth
 
-# Dawna Lee - Wanna Be Down
+# Anne Mie Gils - Goed Om Te Weten (Smooth Operator)
 <hr>
-##### Dancehall cover of Brandy's I Wanna Be Down - **teej**
+##### Belgian cover of Sade's smooth operator
+
+# Huit Octobre 1971 By Cortex 1975
+<hr>
+##### sampled in one beer (MM..Food?) Jazzy bossa nova gem
