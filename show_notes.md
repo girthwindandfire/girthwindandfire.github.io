@@ -11,7 +11,7 @@ title: Episode 14
 
 # Boz Scaggs - Low Down
 <hr>
-##### Sampled in Metal Fingers Vol 5 & 6. Smooth chilled out jammer
+##### A smooth chilled out jammer by Bozz Scaggs which was sampled in Black Snake Roots the Special Herbs beat tape.
 
 # Madamoiselle By Foxy 1978
 <hr>
@@ -19,7 +19,7 @@ title: Episode 14
 
 # Osmar Milito - America Latina
 <hr>
-##### sampled in Madvillain - Raid. upbeat brazilian tune
+##### An upbeat brazilian tune from Osmar Milito sampled in Madvillain - Raid. upbeat brazilian tune
 
 # Happy You Should Be By Mahmakhan 1970
 <hr>
