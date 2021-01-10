@@ -1,58 +1,54 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 14
+title: Episode 15
 ---
 
 
-# What A Fool Believes By The Doobie Brothers 1979 
+# Party tonight By Heather Haywood 2017 
 <hr>
-##### sampled in madrake (Special Herbs Vol. 7&8) Bouncy up beat classic rock/r&b tune.
+##### Modern boogie bumper
 
-# Boz Scaggs - Low Down
+# Ginni Gallan - Lamour Ca Rend Fou
 <hr>
-##### A smooth chilled out jammer by Bozz Scaggs which was sampled in Black Snake Roots the Special Herbs beat tape.
+##### Slow jammer out of france by Ginni Gallan called Lamour Ca Rend Fou
 
-# Madamoiselle By Foxy 1978
+# Te pego de jeito By Banda Beijo 1991
 <hr>
-#### sampled in coriander (Special Herbs Vol. 1) Ultra funky disco groove
+#### Brazilian almost new jack swing pop tune 
 
-# Osmar Milito - America Latina
+# Northy Davies - De D.J. Redde Mij Vannacht (Last Night, The DJ Saved My Life)
 <hr>
-##### An upbeat brazilian tune from Osmar Milito sampled in Madvillain - Raid. upbeat brazilian tune
+##### Cover of indeeps Last Night A DJ Saved My Life comming from the Netherlands
 
-# Happy You Should Be By Mahmakhan 1970
+# I Need Some Money By Chicco 1986
 <hr>
-##### Sampled in vomitspit (MM..Food?) Upbeat & positive yet not at the same time psych rock track about breakin up
+##### South African boogie heater
 
-# Atlantic Starr - Second To None
+# Splendours - Risky
 <hr>
-##### Sampled on Madvillain's Bistro. Soulful lover tune from Atlantic Starr
+##### super catchy boogie tune called Risky by the splendours. released on a 7" single hopefully we will see a reissue down the road.
 
-# Maiden Voyage By Jon Lucien 1975
+# We belong together By Alex Charles 
 <hr>
-##### sampled in eucalyptus (Special Herbs Vol. 2) Mega romantic soul tune 
+##### Funky love tune outta the UK 
 
-# Caldera - Out of the Blue
+# Ashaye - Dreaming (Jungle Mix)
 <hr>
-##### Mellow jazz-funk record sampled on MF Doom's Deep Fried Frenz.
+##### big Jungle tune with UK Street Soul vocals. which was freshly reissued on numero.
 
-# Shoot Em Up Movies By The Deele 1987 
+# Make Me know it By Chieko Beauty
 <hr>
-##### sampled in red&gold (Operation Doomsday) Classic 80s new jack swing/r&b
+##### Sweet girly Japanese lovers rock 
 
-# Kevin McCord - When The Night Comes
+# Tracy Kerr - If You Want My Lovin
 <hr>
-##### Sexy tune that was re-issued in 2020 from Backatcha records. A must have in the record bag.
+##### Super slow burner, which was my most played track on my 2020 spotify playlist.
 
-# Kiss Of Life by Sade
+# You've Gone(original mix) By Bassline Ft Lorraine Chambers 1989
 <hr>
-##### sampled on doomsday from (Operation DoomsDay) Upbeat classic by the queen of smooth
+##### smooth smooth uk streetsoul reissue via isle of jura
 
-# Anne Mie Gils - Goed Om Te Weten (Smooth Operator)
+# Cheryll Glassgow - Glued To The Spot
 <hr>
-##### Belgian cover of Sade's smooth operator
-
-# Huit Octobre 1971 By Cortex 1975
-<hr>
-##### sampled in one beer (MM..Food?) Jazzy bossa nova gem
+##### amazing downtempo boogie to take us out 
