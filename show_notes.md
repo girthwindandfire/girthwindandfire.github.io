@@ -1,54 +1,56 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 15
+title: Episode 16
 ---
 
-
-# Party tonight By Heather Haywood 2017 
+# Cleo McNett - I Believe In You (1987)
 <hr>
-##### Modern boogie bumper
+##### slow soulful yet groovy tune.
 
-# Ginni Gallan - Lamour Ca Rend Fou
+# Manfredo Fest - Brazilian Dorian Dream (1976)
 <hr>
-##### Slow jammer out of france by Ginni Gallan called Lamour Ca Rend Fou
+##### Bossa/samba jazz body mover 
 
-# Te pego de jeito By Banda Beijo 1991
+# Take Three - This Good Good Feeling (1984)
 <hr>
-#### Brazilian almost new jack swing pop tune 
+##### catchy boogie from the uk
 
-# Northy Davies - De D.J. Redde Mij Vannacht (Last Night, The DJ Saved My Life)
+# Emerson - Raw Deal Cocaine Kills (2019)
 <hr>
-##### Cover of indeeps Last Night A DJ Saved My Life comming from the Netherlands
+##### funky boogie anti drug heater
 
-# I Need Some Money By Chicco 1986
+# Afia Mala - Koma (1989)
 <hr>
-##### South African boogie heater
+##### african boogie heater from Togo.
 
-# Splendours - Risky
+# Isabelle Antena - La Tete Contre Les Murs (1987)
 <hr>
-##### super catchy boogie tune called Risky by the splendours. released on a 7" single hopefully we will see a reissue down the road.
+##### Funky french synthpop tune
 
-# We belong together By Alex Charles 
+# Rome Jefferies - Good Love (Vocal) (1983)
 <hr>
-##### Funky love tune outta the UK 
+##### another boogie heater from rain records. shout out george henderson
 
-# Ashaye - Dreaming (Jungle Mix)
+# Patrick Cowley & Jorge Socarras - Memory Fails Me (2009)
 <hr>
-##### big Jungle tune with UK Street Soul vocals. which was freshly reissued on numero.
+##### legendary synthy new wave track that was lost for 30yrs before finally released 
 
-# Make Me know it By Chieko Beauty
+# Derrick Culler - I'm Gonna Make You Happy (1986)
 <hr>
-##### Sweet girly Japanese lovers rock 
+##### what a bassline and great vocals to get you groovin
 
-# Tracy Kerr - If You Want My Lovin
+# Diane Gray - It's Closer (????)
 <hr>
-##### Super slow burner, which was my most played track on my 2020 spotify playlist.
+##### absolute soul burner. Uk soul at its absolute grooviest.
 
-# You've Gone(original mix) By Bassline Ft Lorraine Chambers 1989
+# End To End - Are You Gonna Be (????)
 <hr>
-##### smooth smooth uk streetsoul reissue via isle of jura
+##### Highly saught after street soul from the UK that is rumored to be re-issuing soon :)
 
-# Cheryll Glassgow - Glued To The Spot
+# Raw To The Core Featuring Don Campbell - See It In Your Eyes (Junglist Mix) (1995)
 <hr>
-##### amazing downtempo boogie to take us out 
+##### Jungle edit of a lovers rock tune by don campbell
+
+
+Total Time: 00:57:59
