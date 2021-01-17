@@ -3,9 +3,6 @@
 layout: page
 title: Episode 16
 ---
-# Sade - Nothing Can Come Between Us (1988)
-<hr>
-#### happy bday to the queen sade
 
 # Cleo McNett - I Believe In You (1987)
 <hr>
@@ -55,5 +52,6 @@ title: Episode 16
 <hr>
 ##### Jungle edit of a lovers rock tune by don campbell
 
-
-Total Time: 00:57:59
+# Sade - Nothing Can Come Between Us (1988)
+<hr>
+#### happy bday to the queen sade
