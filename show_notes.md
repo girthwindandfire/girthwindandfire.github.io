@@ -1,57 +1,53 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 16
+title: Episode 17
 ---
-
-# Cleo McNett - I Believe In You (1987)
+# Stanley Cowell - Travelin' Man (1967)
 <hr>
-##### slow soulful yet groovy tune.
+#### mellow jazz tune from jazz pianist Stanley Cowell who passed away in December 2020.
 
-# Manfredo Fest - Brazilian Dorian Dream (1976)
+# Carlos Cutaia - Visiones Incomunicadas (1985)
 <hr>
-##### Bossa/samba jazz body mover 
+#### Body groovin Argentinian synthpop
 
-# Take Three - This Good Good Feeling (1984)
+# Onstage - Alibi (Vocal Rendition) (1987)
 <hr>
-##### catchy boogie from the uk
+#### Smooth downtempo boogie
 
-# Emerson - Raw Deal Cocaine Kills (2019)
+# Thomas Leer - Heartbeat (1985)
 <hr>
-##### funky boogie anti drug heater
+#### Poppier side of the scottish leftfield/minwave legend
 
-# Afia Mala - Koma (1989)
+# Djama - Zay "Instrumental" (1989)
 <hr>
-##### african boogie heater from Togo.
+#### catchy retro zouk tune, with some cool artwork
 
-# Isabelle Antena - La Tete Contre Les Murs (1987)
+# Samson & Delilah - I Can Feel Your Love Slippin Away (Long Vocal) (1984)
 <hr>
-##### Funky french synthpop tune
+#### Boogie floor burner
 
-# Rome Jefferies - Good Love (Vocal) (1983)
+# Sea Bee - Home Boy (1994)
 <hr>
-##### another boogie heater from rain records. shout out george henderson
+#### Kwaito house heater, also i need a t-shirt with this album artwork on it.
 
-# Patrick Cowley & Jorge Socarras - Memory Fails Me (2009)
+# Nsue - Rebelde Silueta (Vocal) (1990)
 <hr>
-##### legendary synthy new wave track that was lost for 30yrs before finally released 
+#### Spanish streetsoul/njs/house banger
 
-# Derrick Culler - I'm Gonna Make You Happy (1986)
+# Kyoko Koizumi - 休日の過ごし方 (1991)
 <hr>
-##### what a bassline and great vocals to get you groovin
+#### japaneese downtempo heater
 
-# Diane Gray - It's Closer (????)
+# Marie Touchet - College Infernal (House Infernal Version) (1990)
 <hr>
-##### absolute soul burner. Uk soul at its absolute grooviest.
+#### Obscure and pricey europop/italo dance heater
 
-# End To End - Are You Gonna Be (????)
+# Silvanna & A Máquina Do Tempo - Só Quero Dançar (1995)
 <hr>
-##### Highly saught after street soul from the UK that is rumored to be re-issuing soon :)
+#### Brazillian tune that crosses multiple genres and hard to put in a box. 
 
-# Raw To The Core Featuring Don Campbell - See It In Your Eyes (Junglist Mix) (1995)
+# Intense - On My Mind (1989)
 <hr>
-##### Jungle edit of a lovers rock tune by don campbell
+#### Smooth and romantic Ariwa recs lovers rock classic.
 
-# Sade - Nothing Can Come Between Us (1988)
-<hr>
-#### happy bday to the queen sade
