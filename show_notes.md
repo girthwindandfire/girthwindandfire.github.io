@@ -1,53 +1,53 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 17
+title: Episode 19
 ---
-# Stanley Cowell - Travelin' Man (1967)
+# Passion Theatre - Mannequin (Fiesta Mix) (1986)
 <hr>
-#### mellow jazz tune from jazz pianist Stanley Cowell who passed away in December 2020.
+#### New Wave banger that was lost for too many years. Godbless u interwebz
 
-# Carlos Cutaia - Visiones Incomunicadas (1985)
+# Del Vall - Esperanza (1985)
 <hr>
-#### Body groovin Argentinian synthpop
+#### Rare Italo-disco heater from Cabana Music
 
-# Onstage - Alibi (Vocal Rendition) (1987)
+# Maurice McGee - Gravity (1984)
 <hr>
-#### Smooth downtempo boogie
+#### Classic FullTimeRecs Italo banger
 
-# Thomas Leer - Heartbeat (1985)
+# Starvue - Body Fusion (1980)
 <hr>
-#### Poppier side of the scottish leftfield/minwave legend
+#### Soul / funk slow burner with some amazing vocals. Also has an amazing lovers rock cover from Micheal Prophet, which can be heard on the compilation For The Love Of You on AOTN.
 
-# Djama - Zay "Instrumental" (1989)
+# Benton - Cara Sells (Vocal) (1987)
 <hr>
-#### catchy retro zouk tune, with some cool artwork
+#### Heater about the perils of being in love with a sexworker who just dont want you Tony!
 
-# Samson & Delilah - I Can Feel Your Love Slippin Away (Long Vocal) (1984)
+# Pat Thomas - Olivia (1991)
 <hr>
-#### Boogie floor burner
+#### African Highlife which was oddly released in Canada from Fire Records
 
-# Sea Bee - Home Boy (1994)
+# Laurie Miller - Love Is A Natural Magical Thing (1986)
 <hr>
-#### Kwaito house heater, also i need a t-shirt with this album artwork on it.
+#### Boogie / Freestyle floor burner
 
-# Nsue - Rebelde Silueta (Vocal) (1990)
+# Grupo Fandango - Tatuema (1988)
 <hr>
-#### Spanish streetsoul/njs/house banger
+#### Amazing brazilian tune which ws released on a 7" and impossible to come by.
 
-# Kyoko Koizumi - 休日の過ごし方 (1991)
+# Maureen Mason - I'm Believing In Love Again (1993 / 2021)
 <hr>
-#### japaneese downtempo heater
+#### Mega smooth UK R&B/Soul burnerrrr with a (caution:synth hook may get stuck in your head for a week)
 
-# Marie Touchet - College Infernal (House Infernal Version) (1990)
+# Stooge - Secrets (1992)
 <hr>
-#### Obscure and pricey europop/italo dance heater
+#### Proto-house heater, off of the EP Secrets. The EP consists of UK Street Soul / House / Soul etc.
 
-# Silvanna & A Máquina Do Tempo - Só Quero Dançar (1995)
+# Patra Featuring Yo-Yo - Romantic Call (Single Version) (1994)
 <hr>
-#### Brazillian tune that crosses multiple genres and hard to put in a box. 
+#### Classic dancehall chune (video featuring top mans 2pac)
 
-# Intense - On My Mind (1989)
+# Mike Francis - Lovely Day (1985)
 <hr>
-#### Smooth and romantic Ariwa recs lovers rock classic.
+#### Italo cover of Bill Withers Lovely Day
 
