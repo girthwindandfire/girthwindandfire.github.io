@@ -1,40 +1,40 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 18
+title: Episode 20
 ---
-01. Masaki Ueda (上田正樹) - ラスト・フット Just Dance The Night (1983)
-	* Japanese boogie pop gold
+01. Ray Frazier & The Shades Of Madness - Your Eyes (2014)
+	* Uplifting and romantic souldie 
 
-02. Atlantic Starr - One Lover At A Time (1987)
-	* description here
+02. The Nassauvians - Slacking Off (2020)
+	* Chilled out instrumental with a suiting title re-issued from Bacatcha Records in 2020.
 
-03. Van Jones & Mary Diggs - Do Ya Think I'm Sexy (1983 / 2021)
-	* amazing disco / boogie cover of rod stewart's do ya think im sexy. recently reissued on fantansy love records
+03. Mick Mullane - Completely (Vocal Mix) (1988)
+	* Boogie funk heater
 
-04. Alphonse Mouzon - Our Love Is Hot (Club Version) (1984)
-	* Absolute boogie floor burner by the incredible jazz/funk drummer and Bob dylans ex wife 
+04. Robert "Dubwise" Browne - Dub Version (2020)
+	* Reggae dub cover of Roy Ayer's Everybody Love's The Sunshine
 
-05. Cherry - Vang Me (1982)
-	* description here
+05. Dolly Parton - Think About Love (1985)
+	* Synthed up country pop tune by the queen herself 
 
-06. Rick Clarke - Show Me The Way (1992)
-	* street soul / proto house from one of the pioneers of the UK Street Soul sound
+06. Legato - Buttercup (1985)
+	* Lover's Rock Cover of a song sang by Carl Anderson and written by Stevie Wonder
 
-07. Presuntos Implicados - Te Voy A Provocar (1985)
-	* Energetic Spanish synthpop tune from the popular Valencian Party band
+07. Nina Decosta - Don't Want To Lose You (1980)
+	* Really smooth and groovy lovers rock jammer 
 
-08. The System - Tu Estas En Mi Systema (You Are In My System) (1983)
-	* description here
+08. Lamore Lindo - Lets Stay Together (?)
+	* UK Street Soul Cover of Al Green's infamous track
 
-09. Nathalie Letertre - Rêveur (1986)
-	* catchy rare groove tune out of france begging for a re-issue
+09. Jennica St. Moor - Now That I Found You (1993)
+	* Smooth lil uk street soul tune
 
-10. Hot Soul Singers - Good Vibes (1987)
-	* Sweet south african bubblegum boogie chuuune
+10. Vivian Sugar Love Jones - Trying (1989)
+	* Amazing reggae track by Vivian Jones with sweet soulful vocals
 
-11. Arnie's Love - I'm Out Of Your Life (Vocal) (1983)
-	* description here
+11. Nicky Thomas - If I Had A Hammer (1970)
+	* Widely covered freedom song a la rocksteady
 
-12. Just Us - Easy (1981)
-	* The highlight of the compilation album 96X Oklahoma Rocks. The compilation was put together from a contest across several radio shows across the country.
+12. Pete Campbell - Holding Back The Years (?)
+	* Lover's Rock cover of Simply Red's Holding Back The Years.
