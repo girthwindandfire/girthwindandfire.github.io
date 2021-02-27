@@ -1,40 +1,40 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 20
+title: Episode 21
 ---
-01. Ray Frazier & The Shades Of Madness - Your Eyes (2014)
-	* Uplifting and romantic souldie 
+01. Bill - I Feel Good With You (1983)
+	* Smooth modern soul jammer, with sweet vocals and 🎷
 
-02. The Nassauvians - Slacking Off (2020)
-	* Chilled out instrumental with a suiting title re-issued from Bacatcha Records in 2020.
+02. Steve Watson - Born To Boogie (1981)
+	* Funky Surinamese boogie groover
 
-03. Mick Mullane - Completely (Vocal Mix) (1988)
-	* Boogie funk heater
+03. Peter Hunnigale - Come Back To Me (Mix 2) (1993)
+	* Lover's Rock bad man Peter Hunnigale sings about heartbreak. Single comes with different version's this one has a more street soul vibe. Check out the other versions which have more of a reggae / lover's rock feel to them.
 
-04. Robert "Dubwise" Browne - Dub Version (2020)
-	* Reggae dub cover of Roy Ayer's Everybody Love's The Sunshine
+04. Brylho - Se Você For A Salvador (1983 / 2001)
+	* Sick Brazilian funkyness
 
-05. Dolly Parton - Think About Love (1985)
-	* Synthed up country pop tune by the queen herself 
+05. Deluxe - Love Forever (1994)
+	* Instrumental may sound familar if you are familar with the Lover's Rock Cover of Leon Ware ‎– Rockin' You Eternally sang by Peter Hunnigale. 
 
-06. Legato - Buttercup (1985)
-	* Lover's Rock Cover of a song sang by Carl Anderson and written by Stevie Wonder
+06. The Boogie Man - Jika Jika (Radio Version) (1984)
+	* Lin drum and Jupiter 4 masterpiece cover of Grandmaster flash’s “the message” from South Africa
 
-07. Nina Decosta - Don't Want To Lose You (1980)
-	* Really smooth and groovy lovers rock jammer 
+07. Rita EF - Stop ! Stop (1991)
+	* Catchy and dancy tune coming out of Nigeria.
 
-08. Lamore Lindo - Lets Stay Together (?)
-	* UK Street Soul Cover of Al Green's infamous track
+08. Hoodoo Fushimi - ケンカおやじ (Stupid Old Men Fighting All Over the World) (?)
+	* Weird lil Japanese electro funk jammer
 
-09. Jennica St. Moor - Now That I Found You (1993)
-	* Smooth lil uk street soul tune
+09. Captain Mosez - Hey! Hey! Hey! (Extended Vocal) (1985)
+	* I remember coming across this tune on discogs / youtube a few years back and couldnt believe the eye watering market value of $1000 for it. Well dry them tears m8's re-issue comming soon from Afro Synth records
 
-10. Vivian Sugar Love Jones - Trying (1989)
-	* Amazing reggae track by Vivian Jones with sweet soulful vocals
+10. Culture Pee - Rain Rain (1988)
+	* Early dancehall produced by the prolific Barry Biggs
 
-11. Nicky Thomas - If I Had A Hammer (1970)
-	* Widely covered freedom song a la rocksteady
+11. Cosmic Jam - Girl Don't Cry (1988)
+	* amazing Electro / Freestyle tune coming out of Germany.
 
-12. Pete Campbell - Holding Back The Years (?)
-	* Lover's Rock cover of Simply Red's Holding Back The Years.
+12. Alfredito Linares - Se Formo La Fiesta (Mi Negrita) (1980)
+	* Salsa picante y sabrositaaaa
