@@ -1,40 +1,40 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 21
+title: Episode 22
 ---
-01. Bill - I Feel Good With You (1983)
-	* Smooth modern soul jammer, with sweet vocals and 🎷
+01. Skull Snaps - I'm Your Pimp (1973)
+	* Northern soul style banger 
 
-02. Steve Watson - Born To Boogie (1981)
-	* Funky Surinamese boogie groover
+02. Raw To The Core Featuring Samanta Scott - In The Mood (1994)
+	* Street soul cover of Tyrone Davis classic track
 
-03. Peter Hunnigale - Come Back To Me (Mix 2) (1993)
-	* Lover's Rock bad man Peter Hunnigale sings about heartbreak. Single comes with different version's this one has a more street soul vibe. Check out the other versions which have more of a reggae / lover's rock feel to them.
+03. Vicky "D" - This Beat Is Mine (1981)
+	* Fun lil disco funk gem with
 
-04. Brylho - Se Você For A Salvador (1983 / 2001)
-	* Sick Brazilian funkyness
+04. Rocky Winters - Vicious Circle (1986)
+	* smooth and catchy downtempo boogie tune.
 
-05. Deluxe - Love Forever (1994)
-	* Instrumental may sound familar if you are familar with the Lover's Rock Cover of Leon Ware ‎– Rockin' You Eternally sang by Peter Hunnigale. 
+05. The Soundstealers - Steal It An' Deal It (The Sahara Dance Mix) (1988)
+	* pre house new beat fish sounding tune
 
-06. The Boogie Man - Jika Jika (Radio Version) (1984)
-	* Lin drum and Jupiter 4 masterpiece cover of Grandmaster flash’s “the message” from South Africa
+06. Shaahtik - On The Serious Tip (Vocals) (1988)
+	* Late 80's hip-hop track released on Aqua Gem Records, also known for lover's rock releases.
 
-07. Rita EF - Stop ! Stop (1991)
-	* Catchy and dancy tune coming out of Nigeria.
+07. Barry Biggs - Just My Imagination (1989)
+	* Lovers cover of a Temptations classic
 
-08. Hoodoo Fushimi - ケンカおやじ (Stupid Old Men Fighting All Over the World) (?)
-	* Weird lil Japanese electro funk jammer
+08. J.C Blu, Lorraine - It Hurts (?)
+	* Lover's Rock tune only released as a promo white label in the UK.
 
-09. Captain Mosez - Hey! Hey! Hey! (Extended Vocal) (1985)
-	* I remember coming across this tune on discogs / youtube a few years back and couldnt believe the eye watering market value of $1000 for it. Well dry them tears m8's re-issue comming soon from Afro Synth records
+09. The Revolutionaries - Kunta Kinte version 2 (1976)
+	* One of the most recognizable and iconic songs of the dub movement
 
-10. Culture Pee - Rain Rain (1988)
-	* Early dancehall produced by the prolific Barry Biggs
+10. Janet Kay - Wishing on a Star (1994)
+	* Rose Royce, lovers cover
 
-11. Cosmic Jam - Girl Don't Cry (1988)
-	* amazing Electro / Freestyle tune coming out of Germany.
+11. Wayne Marshall - Juice Me (1994)
+	* Triple X NSFW mega caliente R&B
 
-12. Alfredito Linares - Se Formo La Fiesta (Mi Negrita) (1980)
-	* Salsa picante y sabrositaaaa
+12. Control - Your Love (1988)
+	* smooth sexy tune to dedicate to your significant other.
