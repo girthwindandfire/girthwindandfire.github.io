@@ -37,4 +37,4 @@ title: Episode 23
 	* Played on top of the pop in 1969 this was dubbed the worlds first electronic hit single. The whole record, though, must be spun to experience the full acid infused effects from this stupendous little oddity of a record.
 
 12. Arzú - Junto A Ti (1991)
-	* Spanish cover of "Maxi Priest - Clost to You"
+	* Spanish cover of "Maxi Priest - Close to You"
