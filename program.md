@@ -1,40 +1,40 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 22
+title: Episode 23
 ---
-01. Skull Snaps - I'm Your Pimp (1973)
-	* Northern soul style banger 
+01. The Edwards Generation - Get Up, Get Up (197X)
+	* Mega feel good soul tune to get out of bed to
 
-02. Raw To The Core Featuring Samanta Scott - In The Mood (1994)
-	* Street soul cover of Tyrone Davis classic track
+02. Angela Shaw - Stranger In A Strange Land (1982)
+	* Feel good modern soul tune.
 
-03. Vicky "D" - This Beat Is Mine (1981)
-	* Fun lil disco funk gem with
+03. Shadow - Let's Make It Up (1984)
+	* Highly addictive little soca disco track
 
-04. Rocky Winters - Vicious Circle (1986)
-	* smooth and catchy downtempo boogie tune.
+04. Optimystic - Trust Me (Vocal Mix) (1991)
+	* Downtempo / Streetsoul tune with killer vocals
 
-05. The Soundstealers - Steal It An' Deal It (The Sahara Dance Mix) (1988)
-	* pre house new beat fish sounding tune
+05. Cosa Rosa - Her Mit Dem Kindergeld (1983)
+	* Super synth jam straight outta the German new waves
 
-06. Shaahtik - On The Serious Tip (Vocals) (1988)
-	* Late 80's hip-hop track released on Aqua Gem Records, also known for lover's rock releases.
+06. Dileo - Late At Night (1991)
+	* Been singing the chorus "You only call me lonely, late at night (you know that ain't right)" in the shower while drinking a beer lately.
 
-07. Barry Biggs - Just My Imagination (1989)
-	* Lovers cover of a Temptations classic
+07. Deco - I'll Be There (1983)
+	* Fat bass. Fat synths. funk galore. What more could one want.
 
-08. J.C Blu, Lorraine - It Hurts (?)
-	* Lover's Rock tune only released as a promo white label in the UK.
+08. MC D'Eddy - Quero (1994)
+	* Brazilian heater with some freestyle vibez. Take it Ease!
 
-09. The Revolutionaries - Kunta Kinte version 2 (1976)
-	* One of the most recognizable and iconic songs of the dub movement
+09. Golpes Bajos - No Mires a los Ojos de la Gente (1983-02-27)
+	* Spanish new wave/synth-pop gold
 
-10. Janet Kay - Wishing on a Star (1994)
-	* Rose Royce, lovers cover
+10. Κήπος (Garden) - Σφηνάκι (1990)
+	* Dope greek tune with such a catchy bass and melody that is sure to get stuck in your head.
 
-11. Wayne Marshall - Juice Me (1994)
-	* Triple X NSFW mega caliente R&B
+11. Gershon Kingsley's First Moog Quartet - Popcorn (1972)
+	* Played on top of the pop in 1969 this was dubbed the worlds first electronic hit single. The whole record, though, must be spun to experience the full acid infused effects from this stupendous little oddity of a record.
 
-12. Control - Your Love (1988)
-	* smooth sexy tune to dedicate to your significant other.
+12. Arzú - Junto A Ti (1991)
+	* Spanish cover of "Maxi Priest - Clost to You"
