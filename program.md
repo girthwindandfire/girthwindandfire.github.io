@@ -1,40 +1,40 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 23
+title: Episode 24
 ---
-01. The Edwards Generation - Get Up, Get Up (197X)
-	* Mega feel good soul tune to get out of bed to
+01. Maxym' - Cool, Decontract (1986)
+	* Chill french tune to start us off
 
-02. Angela Shaw - Stranger In A Strange Land (1982)
-	* Feel good modern soul tune.
+02. Ten Wedge - Me And Mrs Jones (1989)
+	* Funky n soulful early 90s house heater
 
-03. Shadow - Let's Make It Up (1984)
-	* Highly addictive little soca disco track
+03. Gold in the Shade - Shining Through (1991)
+	* UK Street soul heater from TSR recordings.
 
-04. Optimystic - Trust Me (Vocal Mix) (1991)
-	* Downtempo / Streetsoul tune with killer vocals
+04. Belgazou - Talk About It (1982)
+	* Weird lil French Italo disco choon
 
-05. Cosa Rosa - Her Mit Dem Kindergeld (1983)
-	* Super synth jam straight outta the German new waves
+05. Tony Curtis - Ain't Nobody (1999)
+	* Dancehall cover of Chaka Khan's classic track
 
-06. Dileo - Late At Night (1991)
-	* Been singing the chorus "You only call me lonely, late at night (you know that ain't right)" in the shower while drinking a beer lately.
+06. Amarjit Sidhu - Nach Leh Ne Kurieh (1990)
+	* Bhangran Italo disco/electro vibbbbes
 
-07. Deco - I'll Be There (1983)
-	* Fat bass. Fat synths. funk galore. What more could one want.
+07. Oscar 'B' - Go Down Low (Kaisoul Mix) (1996)
+	* Super catchy instrumental thats sure to make you groove.
 
-08. MC D'Eddy - Quero (1994)
-	* Brazilian heater with some freestyle vibez. Take it Ease!
+08. Blink - The Definition (?)
+	* Ultra soulful HipHouse track
 
-09. Golpes Bajos - No Mires a los Ojos de la Gente (1983-02-27)
-	* Spanish new wave/synth-pop gold
+09. Peaches -N- Cream - Jump To The Limit (1995)
+	* Private press RnB/Swing from the US.
 
-10. Κήπος (Garden) - Σφηνάκι (1990)
-	* Dope greek tune with such a catchy bass and melody that is sure to get stuck in your head.
+10. Surprise - Wow (1983)
+	* Groovey funky boogie love ballad
 
-11. Gershon Kingsley's First Moog Quartet - Popcorn (1972)
-	* Played on top of the pop in 1969 this was dubbed the worlds first electronic hit single. The whole record, though, must be spun to experience the full acid infused effects from this stupendous little oddity of a record.
+11. Chico - Make You Sweat (Vocal Mix) (1990)
+	* Lovely hip-house tune that's sure to make you sweat.
 
-12. Arzú - Junto A Ti (1991)
-	* Spanish cover of "Maxi Priest - Close to You"
+12. Luther Vandross - Never Too Much (1981)
+	* Boogie classic that has been following me around everywhere I go after AOTN re issued the Derrick Cross lovers cover also a banger to check up on.
