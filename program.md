@@ -1,40 +1,40 @@
 ---
 # front matter tells Jekyll to process Liquid
 layout: page
-title: Episode 24
+title: Episode 25
 ---
-01. Maxym' - Cool, Decontract (1986)
-	* Chill french tune to start us off
+01. Robody - Dr. Youwzy (1984)
+	* Weird n wild Italo
 
-02. Ten Wedge - Me And Mrs Jones (1989)
-	* Funky n soulful early 90s house heater
+02. Lavinia - Wondering (?)
+	* Freestyle heater take it EZ
 
-03. Gold in the Shade - Shining Through (1991)
-	* UK Street soul heater from TSR recordings.
+03. I'm Talking - Do You Wanna Be (1986)
+	* Body groovin fat bass Italo
 
-04. Belgazou - Talk About It (1982)
-	* Weird lil French Italo disco choon
+04. Aurra - You And Me Tonight (1986)
+	* Boogie banger for all the fk boiz
 
-05. Tony Curtis - Ain't Nobody (1999)
-	* Dancehall cover of Chaka Khan's classic track
+05. Okey Obi - Dance With Me (1985)
+	* Afro boogie heater
 
-06. Amarjit Sidhu - Nach Leh Ne Kurieh (1990)
-	* Bhangran Italo disco/electro vibbbbes
+06. Okie - I'm Missing You (1990)
+	* bubble gum / afro boogie heater with one of the catchiest melodies i've ever done heard. 
 
-07. Oscar 'B' - Go Down Low (Kaisoul Mix) (1996)
-	* Super catchy instrumental thats sure to make you groove.
+07. Black So Man - On S'En Fout (?)
+	* Early Afro beat gold
 
-08. Blink - The Definition (?)
-	* Ultra soulful HipHouse track
+08. Jubal - Thoughts Of You (1985)
+	* Private press chill tune coming out of Canada
 
-09. Peaches -N- Cream - Jump To The Limit (1995)
-	* Private press RnB/Swing from the US.
+09. STR4TA - Rhythm in Your Mind (?)
+	* Modern Brit funk heater 
 
-10. Surprise - Wow (1983)
-	* Groovey funky boogie love ballad
+10. Anwar Kinte - The Life We Should Live (1985)
+	* Soulful boogie with a great bassline and nice sweet vocals.
 
-11. Chico - Make You Sweat (Vocal Mix) (1990)
-	* Lovely hip-house tune that's sure to make you sweat.
+11. Eddie Chacon - Hurt (2020)
+	* Modern R&B crooner from such a laid back chill record worth a rainy day in your feels type of spin
 
-12. Luther Vandross - Never Too Much (1981)
-	* Boogie classic that has been following me around everywhere I go after AOTN re issued the Derrick Cross lovers cover also a banger to check up on.
+12. Pete Richards - Baby It's You (1980)
+	* Dedicated to my boo boo tio xans the best bartender to ever grace the monk.
