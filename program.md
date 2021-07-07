@@ -6,7 +6,7 @@ title: Episode 25
 01. Marengo - Puente De Esperanza (1987)
 	* smooth and dreamy tune
 
-02. Umo Vogue - Just My Love (45 Version) (2018)
+02. Umo Vogue - Just My Love (45 Version) (1984)
 	* Synth pop bopper
 
 03. Craig T. Cooper - I'll Help You Get There (1989)
