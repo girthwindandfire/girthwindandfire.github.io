@@ -3,38 +3,38 @@
 layout: page
 title: Episode 25
 ---
-01. Robody - Dr. Youwzy (1984)
-	* Weird n wild Italo
+01. Marengo - Puente De Esperanza (1987)
+	* smooth and dreamy tune
 
-02. Lavinia - Wondering (?)
-	* Freestyle heater take it EZ
+02. Umo Vogue - Just My Love (45 Version) (2018)
+	* Synth pop bopper
 
-03. I'm Talking - Do You Wanna Be (1986)
-	* Body groovin fat bass Italo
+03. Craig T. Cooper - I'll Help You Get There (1989)
+	* another smooth relaxing tune
 
-04. Aurra - You And Me Tonight (1986)
-	* Boogie banger for all the fk boiz
+04. The Phantoms - Terror In The House (1990)
+	* Thick bounce hip house gem
 
-05. Okey Obi - Dance With Me (1985)
-	* Afro boogie heater
+05. Abdullah - Não Te Esqueço Mais (All Around The World) (1991)
+	* Brazilian Lisa Stansfield cover
 
-06. Okie - I'm Missing You (1990)
-	* bubble gum / afro boogie heater with one of the catchiest melodies i've ever done heard. 
+06. Dr. Felix - Baby Takes 2 (Trumpet Version) (1992)
+	* Hip/euro house dance floor burner
 
-07. Black So Man - On S'En Fout (?)
-	* Early Afro beat gold
+07. Terrance T - Never Can Say Goodbye (1993)
+	* Hip-hop / R&B tune that kind of reminds me of LL Cool J I Need Love.
 
-08. Jubal - Thoughts Of You (1985)
-	* Private press chill tune coming out of Canada
+08. Sandra Cross - My Guy (1991)
+	* Lovers rock cover of the Mary Wells classic
 
-09. STR4TA - Rhythm in Your Mind (?)
-	* Modern Brit funk heater 
+09. Souls Of Mischief - Cab Fare ('92) (1998)
+	* Souls of Mischief track only released on cassette.
 
-10. Anwar Kinte - The Life We Should Live (1985)
-	* Soulful boogie with a great bassline and nice sweet vocals.
+10. Taggy Matcher - She Can't Love You (feat. Celia Kameni) (2021)
+	* Dubbed out modern chemise cover
 
-11. Eddie Chacon - Hurt (2020)
-	* Modern R&B crooner from such a laid back chill record worth a rainy day in your feels type of spin
+11. Abshalom - Said & Done (1994)
+	* Some rap / reggae vibes, with a catchy chorus.
 
-12. Pete Richards - Baby It's You (1980)
-	* Dedicated to my boo boo tio xans the best bartender to ever grace the monk.
+12. Luz Futuro - Vivir en una Isla (2021)
+	* Modern Spanish new wave heater
